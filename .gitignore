@@ -1,0 +1,7 @@
+.pio/
+.pdf-deps/
+.test-deps/
+tmp/
+logs/
+.vscode/
+

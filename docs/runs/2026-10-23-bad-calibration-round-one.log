@@ -1,0 +1,74 @@
+ZUMO MAZE FIRMWARE (Pololu MazeSolver based)
+LOG ===== previous run, recorded on the robot =====
+LOG start round=TWO (saved path) speed=208
+LOG supply at start mV=5080
+LOG calibration weakest sensor=1 span=176
+LOG after sweep line_position=3540 after centering=2840
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=S
+LOG timed out in turn R, line edges seen=0 of 2
+LOG END TURN_TIMEOUT (spun 3 s without finding a line) lowest_supply_mV=5080
+LOG ===== end of previous run =====
+PATH length=49 turns=LLSLRRLRLRLRLRLLSLSSLRRRSSSSRRLRLSRSLRLLRLLSRRSSL
+SPEED knob=569 of 1023 -> motor speed 204 of 400
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
+KNOB 569 of 1023 -> motor speed 204 (middle: about 512 -> 200)
+CLEARED saved path. Next run explores (round one).
+READY round ONE: short press explores. Hold 10 s to clear memory.
+KNOB 660 of 1023 -> motor speed 211 (middle: about 512 -> 200)
+KNOB 812 of 1023 -> motor speed 223 (middle: about 512 -> 200)
+KNOB 754 of 1023 -> motor speed 218 (middle: about 512 -> 200)
+KNOB 500 of 1023 -> motor speed 199 (middle: about 512 -> 200)
+START round ONE
+SPEED knob=500 of 1023 -> motor speed 199 of 400
+SUPPLY at start=5138 mV
+CAL min,max: 332,544 288,460 172,500 172,676 252,1424 332,2000
+CENTER after sweep line_position=3402
+CENTER done line_position=2942
+MAZE #1 exits=L-- turn=L turn_ms=484 sensors=0,0,109,230,105,0
+MAZE #2 exits=LS- turn=L turn_ms=453 sensors=396,255,609,1000,211,0
+MAZE #3 exits=LSR turn=L turn_ms=402 sensors=0,0,731,1000,177,0
+MAZE #4 exits=LS- turn=L turn_ms=223 sensors=1000,465,341,309,27,21
+MAZE #5 exits=LS- turn=L turn_ms=267 sensors=1000,1000,987,150,30,0
+MAZE #6 exits=L-- turn=L turn_ms=510 sensors=0,0,109,230,105,0
+MAZE #7 exits=LS- turn=L turn_ms=6 sensors=377,488,1000,1000,174,0
+MAZE #8 exits=LS- turn=L turn_ms=451 sensors=0,0,475,1000,283,0
+MAZE #9 exits=L-- turn=L turn_ms=61 sensors=1000,255,109,71,0,0
+MAZE #10 exits=L-- turn=L turn_ms=15 sensors=1000,255,109,71,0,0
+MAZE #11 exits=L-- turn=L turn_ms=20 sensors=1000,279,109,71,0,0
+MAZE #12 exits=L-- turn=L turn_ms=22 sensors=1000,255,109,71,0,0
+MAZE #13 exits=LS- turn=L turn_ms=264 sensors=1000,1000,97,63,0,0
+MAZE #14 exits=LSR turn=L turn_ms=418 sensors=0,0,597,1000,283,21
+MAZE #15 exits=LS- turn=L turn_ms=255 sensors=1000,488,475,309,30,23
+MAZE #16 exits=LS- turn=L turn_ms=379 sensors=1000,1000,609,150,30,23
+PATH length=16 turns=LLLLLLLLLLLLLLLL
+MAZE #17 exits=LSR turn=F turn_ms=379 sensors=1000,1000,1000,1000,1000,673
+MAZE result=ROUND_ONE_FINISH (path saved) lowest_supply=5138 mV
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
+KNOB 500 of 1023 -> motor speed 199 (middle: about 512 -> 200)

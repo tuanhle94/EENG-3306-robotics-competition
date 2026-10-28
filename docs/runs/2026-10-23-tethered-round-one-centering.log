@@ -1,0 +1,66 @@
+ZUMO MAZE FIRMWARE (Pololu MazeSolver based)
+LOG ===== previous run, recorded on the robot =====
+LOG start round=TWO (saved path) speed=160
+LOG no end recorded: the robot was switched off or the board restarted during the run (a battery dip resets it).
+LOG ===== end of previous run =====
+PATH length=34 turns=LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+SPEED knob=291 of 1023 -> motor speed 165 of 400
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
+CLEARED saved path. Next run explores (round one).
+READY round ONE: short press explores. Hold 10 s to clear memory.
+START round ONE
+SPEED knob=284 of 1023 -> motor speed 164 of 400
+CENTER after sweep line_position=2043
+CENTER done line_position=2158
+MAZE #1 exits=--R turn=R turn_ms=516 sensors=0,0,77,76,0,23
+MAZE #2 exits=LSR turn=L turn_ms=442 sensors=2,22,566,648,25,2
+MAZE #3 exits=-SR turn=S turn_ms=0 sensors=0,17,534,791,43,44
+MAZE #4 exits=LSR turn=L turn_ms=437 sensors=21,40,736,558,18,21
+MAZE #5 exits=L-- turn=L turn_ms=428 sensors=0,17,21,21,0,23
+MAZE #6 exits=--- turn=B turn_ms=1339 sensors=0,0,53,82,25,2
+MAZE #7 exits=--R turn=R turn_ms=502 sensors=0,20,77,76,0,49
+MAZE #8 exits=LSR turn=L turn_ms=445 sensors=0,17,305,1000,66,44
+MAZE #9 exits=LS- turn=L turn_ms=502 sensors=23,40,505,767,18,23
+MAZE #10 exits=--R turn=R turn_ms=496 sensors=0,0,21,21,0,25
+MAZE #11 exits=--- turn=B turn_ms=1325 sensors=0,20,21,21,0,23
+MAZE #12 exits=L-- turn=L turn_ms=428 sensors=2,0,82,108,0,25
+MAZE #13 exits=L-R turn=L turn_ms=478 sensors=0,0,21,21,0,23
+MAZE #14 exits=--R turn=R turn_ms=488 sensors=2,0,26,26,0,28
+MAZE #15 exits=--R turn=R turn_ms=436 sensors=28,20,50,50,0,53
+MAZE #16 exits=L-- turn=L turn_ms=445 sensors=2,0,53,82,0,2
+MAZE #17 exits=--R turn=R turn_ms=522 sensors=0,0,50,50,0,25
+MAZE #18 exits=L-- turn=L turn_ms=468 sensors=0,17,79,108,0,0
+MAZE #19 exits=LSR turn=L turn_ms=485 sensors=0,22,478,883,48,25
+MAZE #20 exits=L-- turn=L turn_ms=499 sensors=23,20,21,21,0,23
+MAZE #21 exits=--- turn=B turn_ms=1504 sensors=2,0,82,108,0,25
+MAZE #22 exits=--R turn=R turn_ms=519 sensors=0,0,23,23,0,25
+MAZE #23 exits=LSR turn=L turn_ms=444 sensors=0,17,648,589,18,21
+MAZE #24 exits=--R turn=R turn_ms=413 sensors=0,0,23,23,0,25
+MAZE #25 exits=-SR turn=S turn_ms=0 sensors=0,20,478,822,43,21
+MAZE #26 exits=L-- turn=L turn_ms=434 sensors=0,17,74,103,0,21
+MAZE #27 exits=--R turn=R turn_ms=460 sensors=0,0,47,47,0,23
+MAZE #28 exits=L-- turn=L turn_ms=428 sensors=28,22,26,26,0,2
+MAZE #29 exits=L-- turn=L turn_ms=496 sensors=0,0,79,79,0,0
+MAZE #30 exits=--R turn=R turn_ms=428 sensors=0,20,103,103,20,21
+MAZE #31 exits=LS- turn=L turn_ms=442 sensors=49,44,449,854,22,23
+MAZE #32 exits=L-R turn=L turn_ms=505 sensors=25,22,109,108,25,51
+MAZE #33 exits=-SR turn=S turn_ms=0 sensors=0,17,563,703,18,21
+MAZE #34 exits=--R turn=R turn_ms=492 sensors=0,0,77,105,20,49
+MAZE #35 exits=L-R turn=L turn_ms=454 sensors=0,0,50,50,0,51
+MAZE #36 exits=--R turn=R turn_ms=401 sensors=23,20,50,50,20,49
+MAZE #37 exits=--R turn=R turn_ms=419 sensors=2,0,26,26,0,28
+MAZE #38 exits=--- turn=B turn_ms=1590 sensors=0,0,74,74,18,98
+MAZE #39 exits=L-- turn=L turn_ms=419 sensors=0,17,77,103,0,21
+MAZE #40 exits=L-- turn=L turn_ms=422 sensors=21,17,103,103,0,21
+MAZE #41 exits=-SR turn=S turn_ms=0 sensors=0,42,882,470,43,46
+MAZE #42 exits=LS- turn=L turn_ms=461 sensors=0,22,507,738,22,25
+MAZE #43 exits=--R turn=R turn_ms=369 sensors=23,20,50,50,45,103
+MAZE #44 exits=--- turn=B turn_ms=1721 sensors=18,17,101,100,41,121
+MAZE #45 exits=L-- turn=L turn_ms=516 sensors=0,0,23,23,0,2
+MAZE #46 exits=L-R turn=L turn_ms=419 sensors=0,20,106,105,0,23
+MAZE #47 exits=-SR turn=S turn_ms=0 sensors=0,42,827,391,20,46
+MAZE #48 exits=L-- turn=L turn_ms=457 sensors=0,22,79,108,22,25
+PATH length=26 turns=RLSSSRRLRLSRSLRLLRLLSRRSSL
+MAZE #49 exits=LSR turn=F turn_ms=457 sensors=1000,1000,1000,1000,1000,1000
+MAZE result=ROUND_ONE_FINISH (path saved)
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.

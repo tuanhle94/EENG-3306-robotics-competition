@@ -1,0 +1,57 @@
+ZUMO MAZE FIRMWARE (Pololu MazeSolver based)
+LOG ===== previous run, recorded on the robot =====
+LOG start round=TWO (saved path) speed=172
+LOG supply at start mV=5080
+LOG after sweep line_position=2280 after centering=2440
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=L
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=R
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=S
+LOG junction exits=--- turn=L
+LOG END ROUND_TWO_FINISH lowest_supply_mV=5080
+LOG ===== end of previous run =====
+PATH length=26 turns=RLSSSRRLRLSRSLRLLRLLSRRSSL
+SPEED knob=1023 of 1023 -> motor speed 240 of 400
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
+KNOB 1023 of 1023 -> motor speed 240 (middle: about 512 -> 200)
+KNOB 926 of 1023 -> motor speed 232 (middle: about 512 -> 200)
+KNOB 653 of 1023 -> motor speed 211 (middle: about 512 -> 200)
+KNOB 588 of 1023 -> motor speed 205 (middle: about 512 -> 200)
+KNOB 550 of 1023 -> motor speed 203 (middle: about 512 -> 200)
+KNOB 398 of 1023 -> motor speed 191 (middle: about 512 -> 200)
+KNOB 191 of 1023 -> motor speed 174 (middle: about 512 -> 200)
+KNOB 52 of 1023 -> motor speed 164 (middle: about 512 -> 200)
+KNOB 0 of 1023 -> motor speed 160 (middle: about 512 -> 200)
+KNOB 267 of 1023 -> motor speed 180 (middle: about 512 -> 200)
+KNOB 428 of 1023 -> motor speed 193 (middle: about 512 -> 200)
+KNOB 632 of 1023 -> motor speed 209 (middle: about 512 -> 200)
+KNOB 825 of 1023 -> motor speed 224 (middle: about 512 -> 200)
+KNOB 878 of 1023 -> motor speed 228 (middle: about 512 -> 200)
+KNOB 921 of 1023 -> motor speed 232 (middle: about 512 -> 200)
+KNOB 1023 of 1023 -> motor speed 240 (middle: about 512 -> 200)
+KNOB 905 of 1023 -> motor speed 230 (middle: about 512 -> 200)
+KNOB 355 of 1023 -> motor speed 187 (middle: about 512 -> 200)
+KNOB 179 of 1023 -> motor speed 173 (middle: about 512 -> 200)
+KNOB 95 of 1023 -> motor speed 167 (middle: about 512 -> 200)
+KNOB 0 of 1023 -> motor speed 160 (middle: about 512 -> 200)

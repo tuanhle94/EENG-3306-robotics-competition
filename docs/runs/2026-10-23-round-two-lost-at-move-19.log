@@ -1,0 +1,52 @@
+ZUMO MAZE FIRMWARE (Pololu MazeSolver based)
+LOG ===== previous run, recorded on the robot =====
+LOG start round=TWO (saved path) speed=198
+LOG supply at start mV=5080
+LOG calibration weakest sensor=0 span=1704
+LOG after sweep line_position=none after centering=2480
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=LS- turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=L-R turn=L
+LOG lost the saved path at move 19
+LOG   planned turn=S but exits=L-R; explored from there
+LOG junction exits=L-R turn=L
+LOG junction exits=LSR turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=LSR turn=F
+LOG END ROUND_TWO_FINISH after losing the saved path (explored the rest) lowest_supply_mV=5080
+LOG ===== end of previous run =====
+PATH length=24 turns=LLLRRLRLSRSLRLLRLLSRRSSL
+SPEED knob=496 of 1023 -> motor speed 198 of 400
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
+KNOB 496 of 1023 -> motor speed 198 (middle: about 512 -> 200)

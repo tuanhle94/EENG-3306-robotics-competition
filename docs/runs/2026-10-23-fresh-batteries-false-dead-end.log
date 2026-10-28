@@ -1,0 +1,188 @@
+ZUMO MAZE FIRMWARE (Pololu MazeSolver based)
+LOG ===== previous run, recorded on the robot =====
+LOG start round=ONE (exploring) speed=202
+LOG supply at start mV=5080
+LOG calibration weakest sensor=0 span=1664
+LOG after sweep line_position=none after centering=2280
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LSR turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=LS- turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=L-R turn=L
+LOG junction exits=LSR turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=L-R turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LSR turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=LSR turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LS- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG END ROUND_ONE_FINISH (path saved) lowest_supply_mV=5080
+LOG ===== end of previous run =====
+PATH length=93 turns=LLLSSSLRRRSSSSRRLRLSRSLRLLRLLSRRRRLSLLSRSRRSLRRLRLRRRSLRLLRLLLSRRSLRRLRLRLLSRSLRLLRLLLSRRSLRR
+SPEED knob=543 of 1023 -> motor speed 202 of 400
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
+KNOB 543 of 1023 -> motor speed 202 (middle: about 512 -> 200)
+KNOB 512 of 1023 -> motor speed 200 (middle: about 512 -> 200)
+KNOB 486 of 1023 -> motor speed 198 (middle: about 512 -> 200)
+KNOB 457 of 1023 -> motor speed 195 (middle: about 512 -> 200)
+KNOB 442 of 1023 -> motor speed 194 (middle: about 512 -> 200)
+KNOB 376 of 1023 -> motor speed 189 (middle: about 512 -> 200)
+KNOB 403 of 1023 -> motor speed 191 (middle: about 512 -> 200)
+KNOB 438 of 1023 -> motor speed 194 (middle: about 512 -> 200)
+KNOB 451 of 1023 -> motor speed 195 (middle: about 512 -> 200)
+KNOB 413 of 1023 -> motor speed 192 (middle: about 512 -> 200)
+KNOB 399 of 1023 -> motor speed 191 (middle: about 512 -> 200)
+KNOB 387 of 1023 -> motor speed 190 (middle: about 512 -> 200)
+KNOB 378 of 1023 -> motor speed 189 (middle: about 512 -> 200)

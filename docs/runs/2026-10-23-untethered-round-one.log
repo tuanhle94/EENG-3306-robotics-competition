@@ -1,0 +1,58 @@
+ZUMO MAZE FIRMWARE (Pololu MazeSolver based)
+LOG ===== previous run, recorded on the robot =====
+LOG start round=ONE (exploring) speed=164
+LOG after sweep line_position=2040 after centering=2140
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LSR turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=LSR turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=LSR turn=F
+LOG END ROUND_ONE_FINISH (path saved)
+LOG ===== end of previous run =====
+PATH length=26 turns=RLSSSRRLRLSRSLRLLRLLSRRSSL
+SPEED knob not fitted -> fixed motor speed 200 of 400
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.

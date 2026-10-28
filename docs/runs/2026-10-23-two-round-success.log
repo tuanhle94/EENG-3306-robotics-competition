@@ -1,0 +1,160 @@
+ZUMO MAZE FIRMWARE (Pololu MazeSolver based)
+LOG ===== previous run, recorded on the robot =====
+LOG start round=ONE (exploring) speed=200
+LOG END TURN_TIMEOUT (spun 3 s without finding a line)
+LOG ===== end of previous run =====
+SPEED knob=289 of 1023 -> motor speed 165 of 400
+READY round ONE: short press explores. Hold 10 s to clear memory.
+CLEARED saved path. Next run explores (round one).
+READY round ONE: short press explores. Hold 10 s to clear memory.
+START round ONE
+SPEED knob=277 of 1023 -> motor speed 163 of 400
+MAZE result=TURN_TIMEOUT (spun 3 s without finding a line)
+READY round ONE: short press explores. Hold 10 s to clear memory.
+START round ONE
+SPEED knob=260 of 1023 -> motor speed 160 of 400
+MAZE result=TURN_TIMEOUT (spun 3 s without finding a line)
+READY round ONE: short press explores. Hold 10 s to clear memory.
+CLEARED saved path. Next run explores (round one).
+READY round ONE: short press explores. Hold 10 s to clear memory.
+START round ONE
+SPEED knob=298 of 1023 -> motor speed 166 of 400
+MAZE #1 exits=--R turn=R turn_ms=464 sensors=22,0,84,86,2,0
+MAZE #2 exits=LSR turn=L turn_ms=446 sensors=18,17,461,809,22,0
+MAZE #3 exits=-SR turn=S turn_ms=0 sensors=16,17,431,904,50,0
+MAZE #4 exits=LSR turn=L turn_ms=418 sensors=43,44,789,563,25,0
+MAZE #5 exits=L-- turn=L turn_ms=398 sensors=20,20,24,25,0,2
+MAZE #6 exits=--- turn=B turn_ms=1121 sensors=18,0,49,81,22,0
+MAZE #7 exits=--R turn=R turn_ms=422 sensors=20,22,81,84,0,4
+MAZE #8 exits=LSR turn=L turn_ms=473 sensors=18,20,368,1000,48,23
+MAZE #9 exits=LS- turn=L turn_ms=478 sensors=20,22,579,843,25,2
+MAZE #10 exits=--R turn=R turn_ms=420 sensors=20,20,21,22,0,2
+MAZE #11 exits=--- turn=B turn_ms=1294 sensors=20,20,21,22,0,2
+MAZE #12 exits=L-- turn=L turn_ms=448 sensors=18,0,79,112,0,0
+MAZE #13 exits=L-R turn=L turn_ms=423 sensors=20,0,24,53,0,2
+MAZE #14 exits=--R turn=R turn_ms=415 sensors=20,20,24,25,25,28
+MAZE #15 exits=--R turn=R turn_ms=405 sensors=43,20,51,53,0,26
+MAZE #16 exits=L-- turn=L turn_ms=469 sensors=18,0,51,81,0,0
+MAZE #17 exits=--R turn=R turn_ms=445 sensors=20,0,21,22,0,2
+MAZE #18 exits=L-- turn=L turn_ms=406 sensors=18,20,79,112,22,0
+MAZE #19 exits=LSR turn=L turn_ms=482 sensors=20,22,461,963,50,0
+MAZE #20 exits=L-- turn=L turn_ms=425 sensors=20,20,24,25,0,2
+MAZE #21 exits=--- turn=B turn_ms=1293 sensors=18,0,79,112,22,0
+MAZE #22 exits=--R turn=R turn_ms=463 sensors=20,0,24,25,0,0
+MAZE #23 exits=LSR turn=L turn_ms=425 sensors=16,17,606,683,20,0
+MAZE #24 exits=--R turn=R turn_ms=422 sensors=22,0,54,56,0,4
+MAZE #25 exits=-SR turn=S turn_ms=0 sensors=18,20,579,686,48,0
+MAZE #26 exits=L-- turn=L turn_ms=396 sensors=18,20,79,112,22,0
+MAZE #27 exits=--R turn=R turn_ms=428 sensors=20,0,51,53,0,0
+MAZE #28 exits=L-- turn=L turn_ms=387 sensors=43,20,21,22,0,0
+MAZE #29 exits=L-- turn=L turn_ms=460 sensors=18,0,79,112,0,0
+MAZE #30 exits=--R turn=R turn_ms=433 sensors=20,22,112,114,25,2
+MAZE #31 exits=LS- turn=L turn_ms=425 sensors=45,44,431,904,25,2
+MAZE #32 exits=L-R turn=L turn_ms=507 sensors=43,20,109,112,22,0
+MAZE #33 exits=-SR turn=S turn_ms=0 sensors=16,17,696,621,20,0
+MAZE #34 exits=--R turn=R turn_ms=460 sensors=0,0,54,86,0,4
+MAZE #35 exits=L-R turn=L turn_ms=490 sensors=20,0,51,53,0,2
+MAZE #36 exits=--R turn=R turn_ms=443 sensors=22,0,54,28,0,4
+MAZE #37 exits=--R turn=R turn_ms=466 sensors=20,20,24,25,0,2
+MAZE #38 exits=--- turn=B turn_ms=1487 sensors=18,0,79,81,22,52
+MAZE #39 exits=L-- turn=L turn_ms=477 sensors=18,0,106,109,0,0
+MAZE #40 exits=L-- turn=L turn_ms=457 sensors=18,20,109,112,22,0
+MAZE #41 exits=-SR turn=S turn_ms=0 sensors=16,40,846,529,48,21
+MAZE #42 exits=LS- turn=L turn_ms=455 sensors=18,20,459,840,22,0
+MAZE #43 exits=--R turn=R turn_ms=416 sensors=43,20,51,53,50,52
+MAZE #44 exits=--- turn=B turn_ms=1552 sensors=16,0,76,109,20,76
+MAZE #45 exits=L-- turn=L turn_ms=587 sensors=0,0,0,0,0,0
+MAZE #46 exits=L-R turn=L turn_ms=495 sensors=18,0,79,112,0,0
+MAZE #47 exits=-SR turn=S turn_ms=0 sensors=0,20,819,470,22,0
+MAZE #48 exits=L-- turn=L turn_ms=442 sensors=20,22,81,114,0,2
+PATH length=26 turns=RLSSSRRLRLSRSLRLLRLLSRRSSL
+MAZE #49 exits=LSR turn=F turn_ms=442 sensors=1000,1000,1000,1000,1000,1000
+MAZE result=ROUND_ONE_FINISH (path saved)
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
+ZUMO MAZE FIRMWARE (Pololu MazeSolver based)
+LOG ===== previous run, recorded on the robot =====
+LOG start round=ONE (exploring) speed=166
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LSR turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=LSR turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--- turn=B
+LOG junction exits=--R turn=R
+LOG junction exits=LSR turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=LS- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=--R turn=R
+LOG junction exits=L-R turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-- turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=LS- turn=L
+LOG junction exits=--R turn=R
+LOG junction exits=--- turn=B
+LOG junction exits=L-- turn=L
+LOG junction exits=L-R turn=L
+LOG junction exits=-SR turn=S
+LOG junction exits=L-- turn=L
+LOG junction exits=LSR turn=F
+LOG END ROUND_ONE_FINISH (path saved)
+LOG ===== end of previous run =====
+PATH length=26 turns=RLSSSRRLRLSRSLRLLRLLSRRSSL
+SPEED knob=415 of 1023 -> motor speed 184 of 400
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
+START round TWO
+SPEED knob=370 of 1023 -> motor speed 177 of 400
+MAZE #1 exits=--- turn=R turn_ms=388 sensors=0,0,0,0,0,0
+MAZE #2 exits=--- turn=L turn_ms=463 sensors=0,0,0,0,0,0
+MAZE #3 exits=--- turn=S turn_ms=0 sensors=0,0,0,0,0,0
+MAZE #4 exits=--- turn=S turn_ms=0 sensors=0,0,0,0,0,0
+MAZE #5 exits=--- turn=S turn_ms=0 sensors=0,0,0,0,0,0
+MAZE #6 exits=--- turn=R turn_ms=375 sensors=0,0,0,0,0,0
+MAZE #7 exits=--- turn=R turn_ms=348 sensors=0,0,0,0,0,0
+MAZE #8 exits=--- turn=L turn_ms=398 sensors=0,0,0,0,0,0
+MAZE #9 exits=--- turn=R turn_ms=360 sensors=0,0,0,0,0,0
+MAZE #10 exits=--- turn=L turn_ms=348 sensors=0,0,0,0,0,0
+MAZE #11 exits=--- turn=S turn_ms=0 sensors=0,0,0,0,0,0
+MAZE #12 exits=--- turn=R turn_ms=419 sensors=0,0,0,0,0,0
+MAZE #13 exits=--- turn=S turn_ms=0 sensors=0,0,0,0,0,0
+MAZE #14 exits=--- turn=L turn_ms=361 sensors=0,0,0,0,0,0
+MAZE #15 exits=--- turn=R turn_ms=366 sensors=0,0,0,0,0,0
+MAZE #16 exits=--- turn=L turn_ms=357 sensors=0,0,0,0,0,0
+MAZE #17 exits=--- turn=L turn_ms=360 sensors=0,0,0,0,0,0
+MAZE #18 exits=--- turn=R turn_ms=378 sensors=0,0,0,0,0,0
+MAZE #19 exits=--- turn=L turn_ms=364 sensors=0,0,0,0,0,0
+MAZE #20 exits=--- turn=L turn_ms=381 sensors=0,0,0,0,0,0
+MAZE #21 exits=--- turn=S turn_ms=0 sensors=0,0,0,0,0,0
+MAZE #22 exits=--- turn=R turn_ms=442 sensors=0,0,0,0,0,0
+MAZE #23 exits=--- turn=R turn_ms=410 sensors=0,0,0,0,0,0
+MAZE #24 exits=--- turn=S turn_ms=0 sensors=0,0,0,0,0,0
+MAZE #25 exits=--- turn=S turn_ms=0 sensors=0,0,0,0,0,0
+MAZE #26 exits=--- turn=L turn_ms=393 sensors=0,0,0,0,0,0
+MAZE result=ROUND_TWO_FINISH
+READY round TWO: short press drives the saved path. Hold 10 s to clear it.
